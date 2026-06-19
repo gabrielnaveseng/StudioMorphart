@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125">
+  <defs>
+    <linearGradient id="portrait" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fbf7ec"/>
+      <stop offset=".45" stop-color="#d89262"/>
+      <stop offset="1" stop-color="#173f35"/>
+    </linearGradient>
+    <pattern id="threads" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-18)">
+      <path d="M0 12H36M0 24H36" stroke="#fbf7ec" stroke-opacity=".22" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="1125" fill="url(#portrait)"/>
+  <rect width="900" height="1125" fill="url(#threads)"/>
+  <circle cx="455" cy="320" r="142" fill="#2f261f" opacity=".9"/>
+  <path d="M262 922C285 668 365 526 452 526C545 526 630 682 662 922Z" fill="#f3efe6" opacity=".88"/>
+  <path d="M266 563C384 427 518 430 635 563" fill="none" stroke="#173f35" stroke-width="25" stroke-linecap="round"/>
+  <path d="M225 760C355 684 511 696 690 776" fill="none" stroke="#b75f3d" stroke-width="16" stroke-linecap="round" stroke-dasharray="6 28"/>
+  <path d="M170 190C284 89 454 68 610 133C708 174 777 246 819 334" fill="none" stroke="#fbf7ec" stroke-width="9" stroke-linecap="round" opacity=".72"/>
+</svg>

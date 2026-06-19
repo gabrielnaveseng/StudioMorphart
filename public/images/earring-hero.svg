@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1125" role="img" aria-labelledby="title desc">
+  <title id="title">Flexible macrame earring placeholder</title>
+  <desc id="desc">Organic studio artwork with a bendable macrame arc.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f3efe6"/>
+      <stop offset=".48" stop-color="#c7d29a"/>
+      <stop offset="1" stop-color="#457b83"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="24" stdDeviation="28" flood-color="#173f35" flood-opacity=".22"/>
+    </filter>
+    <pattern id="weave" width="52" height="52" patternUnits="userSpaceOnUse" patternTransform="rotate(22)">
+      <path d="M0 18H52M0 36H52" stroke="#173f35" stroke-opacity=".14" stroke-width="3"/>
+      <path d="M18 0V52M36 0V52" stroke="#b75f3d" stroke-opacity=".14" stroke-width="3"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="1125" fill="url(#bg)"/>
+  <rect width="900" height="1125" fill="url(#weave)" opacity=".75"/>
+  <circle cx="182" cy="214" r="190" fill="#d89262" opacity=".36"/>
+  <circle cx="760" cy="864" r="245" fill="#173f35" opacity=".22"/>
+  <path d="M444 156C642 207 735 397 697 610C658 829 485 930 341 860C215 798 229 638 297 532C354 443 460 390 535 438C610 486 606 618 530 690C468 750 371 739 350 669" fill="none" stroke="#2f261f" stroke-width="26" stroke-linecap="round" filter="url(#shadow)"/>
+  <path d="M444 156C642 207 735 397 697 610C658 829 485 930 341 860C215 798 229 638 297 532C354 443 460 390 535 438C610 486 606 618 530 690C468 750 371 739 350 669" fill="none" stroke="#f3efe6" stroke-width="16" stroke-linecap="round" stroke-dasharray="5 25"/>
+  <path d="M448 147L418 105M449 147L486 112" stroke="#b75f3d" stroke-width="9" stroke-linecap="round"/>
+  <g fill="#b75f3d">
+    <circle cx="418" cy="105" r="12"/>
+    <circle cx="486" cy="112" r="12"/>
+    <circle cx="350" cy="669" r="14"/>
+  </g>
+</svg>

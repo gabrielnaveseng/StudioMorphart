@@ -1,0 +1,109 @@
+{
+  "brand": {
+    "tagline": "rituels a porter"
+  },
+  "nav": {
+    "aria": "Navigation principale",
+    "home": "Accueil",
+    "manifesto": "Manifeste",
+    "collection": "Collection",
+    "contact": "Contact",
+    "open": "Ouvrir le menu",
+    "close": "Fermer le menu"
+  },
+  "language": {
+    "aria": "Selecteur de langue"
+  },
+  "home": {
+    "eyebrow": "Ame bresilienne, foret canadienne",
+    "title": "Des arcs a porter, formes par l'instinct, la route et le fil.",
+    "subtitle": "Studio Morphart cree des boucles d'oreilles flexibles en macrame, remodelables a la main, qui portent la chaleur de l'heritage tropical vers le souffle vert profond du Canada.",
+    "ctaPrimary": "Explorer la collection",
+    "ctaSecondary": "Lire le manifeste",
+    "heroImageAlt": "Image temporaire de boucle d'oreille flexible en macrame dans une scene de studio organique",
+    "productCalloutTitle": "Arcs flexibles",
+    "productCalloutText": "Des boucles legeres, pliables et creees comme un rituel pour suivre votre humeur.",
+    "manifestoTitle": "Trois forces guident chaque piece.",
+    "manifestoIntro": "Wild est la racine brute. Wander est la route confiante. Weaver est la main qui donne forme a l'invisible.",
+    "collectionEyebrow": "Premiere ligne",
+    "collectionTitle": "Boucles d'oreilles en macrame remodelables",
+    "collectionIntro": "Chaque image temporaire represente un futur arc: structure souple, mouvement portable et presence faite main."
+  },
+  "about": {
+    "eyebrow": "A propos de l'artiste",
+    "title": "Une artiste bresilienne tisse le foyer dans les paysages canadiens.",
+    "intro": "Studio Morphart est un atelier vivant d'ornement, de memoire et de transformation.",
+    "imageAlt": "Portrait conceptuel temporaire de l'artiste de Studio Morphart",
+    "storyOne": "Cree au Canada par une artiste bresilienne, Studio Morphart commence la ou la migration devient matiere: des forets humides gardees dans le corps, des verts du nord vus avec un regard nouveau, et l'artisanat comme ceremonie discrete d'appartenance.",
+    "storyTwo": "La premiere ligne se concentre sur des boucles d'oreilles flexibles en macrame en forme d'arcs. Elles sont volontairement remodelables, invitant la personne qui les porte a les plier, ouvrir, resserrer et transformer avec le temps.",
+    "storyThree": "Le travail honore Santa Sara Kali comme symbole de protection sur la route: le courage de marcher sans destination fixe et de faire confiance a l'intuition comme boussole.",
+    "manifestoEyebrow": "Wild / Wander / Weaver",
+    "manifestoTitle": "Le manifeste"
+  },
+  "manifesto": {
+    "wild": {
+      "label": "Instinct",
+      "title": "Wild",
+      "short": "Nature indomptee, essence brute et liberte tropicale rencontrant les verts profonds du Canada.",
+      "full": "Wild est l'instinct, la nature indomptee et l'essence brute. C'est la liberte de l'heritage tropical qui fusionne avec les paysages verts profonds du Canada, la ou le corps, la foret, la chaleur et la mousse se reconnaissent."
+    },
+    "wander": {
+      "label": "Foi",
+      "title": "Wander",
+      "short": "La route, le vent et la foi sous la protection de Santa Sara Kali.",
+      "full": "Wander est la route, le vent et la foi. Sous la protection de Santa Sara Kali, marcher sans destination fixe devient un acte de confiance, laissant l'intuition guider le prochain chemin."
+    },
+    "weaver": {
+      "label": "Rituel",
+      "title": "Weaver",
+      "short": "Des histoires nouees a la main, des idees subtiles transformees en art a porter.",
+      "full": "Weaver est l'acte de nouer les fils, de sculpter les chemins et de donner forme aux idees subtiles. Chaque noeud devient un geste rituel, transformant l'histoire et le silence en art a porter."
+    }
+  },
+  "collection": {
+    "eyebrow": "Collection",
+    "title": "Des boucles flexibles pour des formes changeantes.",
+    "intro": "Les images temporaires sont pretes a etre remplacees par des photographies. La structure prend deja en charge les noms, descriptions, images et etiquettes pour les futures collections."
+  },
+  "products": {
+    "arcSara": {
+      "name": "Arc de Sara",
+      "description": "Un arc pliable et protecteur inspire par le pelerinage, la chaleur et la force silencieuse de la foi."
+    },
+    "forestCurrent": {
+      "name": "Courant de Foret",
+      "description": "Une forme vert profond en macrame qui evoque les bois canadiens et le mouvement de l'eau."
+    },
+    "tropicalThread": {
+      "name": "Fil Tropical",
+      "description": "Un arc lumineux et tactile qui porte le rythme des couleurs bresiliennes dans une silhouette moderne."
+    },
+    "riverRitual": {
+      "name": "Rituel de Riviere",
+      "description": "Une boucle fluide concue pour etre remodelee, adoucie et portee comme un rituel quotidien."
+    }
+  },
+  "tags": {
+    "flexible": "Flexible",
+    "moldable": "Modelable",
+    "handcrafted": "Fait main",
+    "macrame": "Macrame"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Commencer un fil.",
+    "intro": "Pour les commandes, collaborations, revendeurs ou l'acces anticipe a la premiere ligne de boucles, envoyez un message a l'atelier.",
+    "name": "Nom",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Envoyer",
+    "asideTitle": "Notes d'atelier",
+    "asideText": "L'atelier prepare sa premiere ligne de boucles flexibles en macrame. Suivez le processus, les dates de lancement et les rituels en coulisses.",
+    "location": "Canada"
+  },
+  "footer": {
+    "copy": "Des ornements flexibles en macrame faconnes par des racines bresiliennes, des paysages canadiens et un artisanat rituel.",
+    "visit": "Visiter",
+    "connect": "Connecter"
+  }
+}

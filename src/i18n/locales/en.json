@@ -1,0 +1,109 @@
+{
+  "brand": {
+    "tagline": "wearable rituals"
+  },
+  "nav": {
+    "aria": "Primary navigation",
+    "home": "Home",
+    "manifesto": "Manifesto",
+    "collection": "Collection",
+    "contact": "Contact",
+    "open": "Open menu",
+    "close": "Close menu"
+  },
+  "language": {
+    "aria": "Language selector"
+  },
+  "home": {
+    "eyebrow": "Brazilian soul, Canadian forest",
+    "title": "Wearable arcs shaped by instinct, road, and thread.",
+    "subtitle": "Studio Morphart creates flexible macrame earrings that can be remolded by hand, carrying the heat of tropical heritage into the deep green breath of Canada.",
+    "ctaPrimary": "Explore collection",
+    "ctaSecondary": "Read manifesto",
+    "heroImageAlt": "Flexible macrame earring placeholder in an organic studio scene",
+    "productCalloutTitle": "Flexible arcs",
+    "productCalloutText": "Bendable, light, ritual-made earrings designed to shift with your mood.",
+    "manifestoTitle": "Three forces guide every piece.",
+    "manifestoIntro": "Wild is the raw root. Wander is the faithful road. Weaver is the hand that ties the invisible into form.",
+    "collectionEyebrow": "First line",
+    "collectionTitle": "Remoldable macrame earrings",
+    "collectionIntro": "Each placeholder piece represents a future arc: soft structure, wearable movement, and handmade presence."
+  },
+  "about": {
+    "eyebrow": "About the artist",
+    "title": "A Brazilian artist weaving home into Canadian landscapes.",
+    "intro": "Studio Morphart is a living studio for adornment, memory, and transformation.",
+    "imageAlt": "Conceptual portrait placeholder for the Studio Morphart artist",
+    "storyOne": "Created in Canada by a Brazilian artist, Studio Morphart begins where migration becomes material: humid forests remembered in the body, northern greens seen through new eyes, and craft used as a quiet ceremony of belonging.",
+    "storyTwo": "The first line focuses on flexible macrame earrings shaped as arcs. They are intentionally remoldable, inviting the wearer to bend, open, tighten, and transform each piece over time.",
+    "storyThree": "The work honors Santa Sara Kali as a symbol of protection on the road: the courage to walk without a fixed destination and trust intuition as compass.",
+    "manifestoEyebrow": "Wild / Wander / Weaver",
+    "manifestoTitle": "The manifesto"
+  },
+  "manifesto": {
+    "wild": {
+      "label": "Instinct",
+      "title": "Wild",
+      "short": "Untamed nature, raw essence, and tropical freedom meeting Canada's deep green landscapes.",
+      "full": "Wild is instinct, untamed nature, and raw essence. It is the freedom of tropical heritage merging with the deep green landscapes of Canada, where body, forest, heat, and moss remember each other."
+    },
+    "wander": {
+      "label": "Faith",
+      "title": "Wander",
+      "short": "The road, the wind, and faith under the protection of Santa Sara Kali.",
+      "full": "Wander is the road, the wind, and faith. Under the protection of Santa Sara Kali, walking without a fixed destination becomes an act of trust, allowing intuition to guide the next path."
+    },
+    "weaver": {
+      "label": "Ritual",
+      "title": "Weaver",
+      "short": "Stories tied by hand, subtle ideas transformed into wearable art.",
+      "full": "Weaver is the act of tying threads, sculpting paths, and giving form to subtle ideas. Every knot becomes a ritual gesture, transforming story and silence into wearable art."
+    }
+  },
+  "collection": {
+    "eyebrow": "Collection",
+    "title": "Flexible earrings for changing forms.",
+    "intro": "Placeholder product imagery is ready to be replaced with photography. The structure already supports names, descriptions, images, and tag systems for future collections."
+  },
+  "products": {
+    "arcSara": {
+      "name": "Arc of Sara",
+      "description": "A protective bendable arc inspired by pilgrimage, warmth, and the quiet strength of faith."
+    },
+    "forestCurrent": {
+      "name": "Forest Current",
+      "description": "A deep green macrame form that echoes Canadian woods and the movement of water."
+    },
+    "tropicalThread": {
+      "name": "Tropical Thread",
+      "description": "A bright, tactile arc carrying the pulse of Brazilian color into a modern silhouette."
+    },
+    "riverRitual": {
+      "name": "River Ritual",
+      "description": "A fluid earring designed to be reshaped, softened, and worn as a daily ritual."
+    }
+  },
+  "tags": {
+    "flexible": "Flexible",
+    "moldable": "Moldable",
+    "handcrafted": "Handcrafted",
+    "macrame": "Macrame"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Begin a thread.",
+    "intro": "For commissions, collaborations, stockists, or early access to the first earring line, send a note to the studio.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send message",
+    "asideTitle": "Studio notes",
+    "asideText": "The studio is preparing its first flexible macrame earring line. Follow along for process, release dates, and behind-the-scenes rituals.",
+    "location": "Canada"
+  },
+  "footer": {
+    "copy": "Flexible macrame adornments shaped by Brazilian roots, Canadian landscapes, and ritual craft.",
+    "visit": "Visit",
+    "connect": "Connect"
+  }
+}

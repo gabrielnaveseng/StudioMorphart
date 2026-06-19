@@ -1,0 +1,109 @@
+{
+  "brand": {
+    "tagline": "rituais vestiveis"
+  },
+  "nav": {
+    "aria": "Navegacao principal",
+    "home": "Inicio",
+    "manifesto": "Manifesto",
+    "collection": "Colecao",
+    "contact": "Contato",
+    "open": "Abrir menu",
+    "close": "Fechar menu"
+  },
+  "language": {
+    "aria": "Seletor de idioma"
+  },
+  "home": {
+    "eyebrow": "Alma brasileira, floresta canadense",
+    "title": "Arcos vestiveis moldados por instinto, estrada e fio.",
+    "subtitle": "Studio Morphart cria brincos flexiveis em macrame que podem ser remodelados a mao, levando o calor da heranca tropical para o verde profundo do Canada.",
+    "ctaPrimary": "Explorar colecao",
+    "ctaSecondary": "Ler manifesto",
+    "heroImageAlt": "Placeholder de brinco flexivel em macrame em uma cena organica de estudio",
+    "productCalloutTitle": "Arcos flexiveis",
+    "productCalloutText": "Brincos leves, dobraveis e feitos como ritual para mudar com o seu momento.",
+    "manifestoTitle": "Tres forcas guiam cada peca.",
+    "manifestoIntro": "Wild e a raiz bruta. Wander e a estrada com fe. Weaver e a mao que transforma o invisivel em forma.",
+    "collectionEyebrow": "Primeira linha",
+    "collectionTitle": "Brincos de macrame remodelaveis",
+    "collectionIntro": "Cada peca placeholder representa um futuro arco: estrutura macia, movimento vestivel e presenca feita a mao."
+  },
+  "about": {
+    "eyebrow": "Sobre a artista",
+    "title": "Uma artista brasileira tecendo lar nas paisagens canadenses.",
+    "intro": "Studio Morphart e um estudio vivo de adorno, memoria e transformacao.",
+    "imageAlt": "Placeholder conceitual de retrato da artista do Studio Morphart",
+    "storyOne": "Criado no Canada por uma artista brasileira, Studio Morphart nasce onde a migracao vira materia: florestas umidas lembradas no corpo, verdes do norte vistos com novos olhos e artesanato como uma cerimonia silenciosa de pertencimento.",
+    "storyTwo": "A primeira linha foca em brincos flexiveis de macrame em formato de arco. Eles sao propositalmente remodelaveis, convidando quem usa a dobrar, abrir, ajustar e transformar cada peca ao longo do tempo.",
+    "storyThree": "O trabalho honra Santa Sara Kali como simbolo de protecao na estrada: a coragem de caminhar sem destino fixo e confiar na intuicao como bussola.",
+    "manifestoEyebrow": "Wild / Wander / Weaver",
+    "manifestoTitle": "O manifesto"
+  },
+  "manifesto": {
+    "wild": {
+      "label": "Instinto",
+      "title": "Wild",
+      "short": "Natureza indomada, essencia crua e liberdade tropical encontrando o verde profundo do Canada.",
+      "full": "Wild e instinto, natureza indomada e essencia crua. E a liberdade da heranca tropical se misturando as paisagens verdes profundas do Canada, onde corpo, floresta, calor e musgo se reconhecem."
+    },
+    "wander": {
+      "label": "Fe",
+      "title": "Wander",
+      "short": "A estrada, o vento e a fe sob a protecao de Santa Sara Kali.",
+      "full": "Wander e a estrada, o vento e a fe. Sob a protecao de Santa Sara Kali, caminhar sem destino fixo se torna um ato de confianca, deixando a intuicao guiar o proximo caminho."
+    },
+    "weaver": {
+      "label": "Ritual",
+      "title": "Weaver",
+      "short": "Historias amarradas a mao, ideias sutis transformadas em arte vestivel.",
+      "full": "Weaver e o ato de amarrar fios, esculpir caminhos e dar forma a ideias sutis. Cada no vira um gesto ritual, transformando historia e silencio em arte vestivel."
+    }
+  },
+  "collection": {
+    "eyebrow": "Colecao",
+    "title": "Brincos flexiveis para formas em movimento.",
+    "intro": "As imagens placeholder estao prontas para serem substituidas por fotografias. A estrutura ja suporta nomes, descricoes, imagens e tags para futuras colecoes."
+  },
+  "products": {
+    "arcSara": {
+      "name": "Arco de Sara",
+      "description": "Um arco dobravel de protecao inspirado em peregrinacao, calor e na forca silenciosa da fe."
+    },
+    "forestCurrent": {
+      "name": "Corrente da Floresta",
+      "description": "Uma forma verde profunda em macrame que ecoa as matas canadenses e o movimento da agua."
+    },
+    "tropicalThread": {
+      "name": "Fio Tropical",
+      "description": "Um arco vibrante e tatil que leva o pulso das cores brasileiras para uma silhueta moderna."
+    },
+    "riverRitual": {
+      "name": "Ritual do Rio",
+      "description": "Um brinco fluido criado para ser remodelado, suavizado e usado como ritual diario."
+    }
+  },
+  "tags": {
+    "flexible": "Flexivel",
+    "moldable": "Moldavel",
+    "handcrafted": "Feito a mao",
+    "macrame": "Macrame"
+  },
+  "contact": {
+    "eyebrow": "Contato",
+    "title": "Comece um fio.",
+    "intro": "Para encomendas, colaboracoes, lojistas ou acesso antecipado a primeira linha de brincos, envie uma mensagem ao estudio.",
+    "name": "Nome",
+    "email": "Email",
+    "message": "Mensagem",
+    "submit": "Enviar mensagem",
+    "asideTitle": "Notas do estudio",
+    "asideText": "O estudio esta preparando sua primeira linha de brincos flexiveis em macrame. Acompanhe processos, datas de lancamento e rituais de bastidores.",
+    "location": "Canada"
+  },
+  "footer": {
+    "copy": "Adornos flexiveis em macrame moldados por raizes brasileiras, paisagens canadenses e artesanato ritual.",
+    "visit": "Visite",
+    "connect": "Conecte"
+  }
+}
