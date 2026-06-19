@@ -12,7 +12,7 @@ export function AboutPage() {
         <OrganicThread className="absolute inset-x-0 top-20 -z-10 h-72 w-full text-river/28" />
         <div className="grid items-center gap-10 lg:grid-cols-[0.9fr_1.1fr]">
           <motion.img
-            src="/images/manifesto-portrait.svg"
+            src={`${import.meta.env.BASE_URL}images/manifesto-portrait.svg`}
             alt={t('about.imageAlt')}
             className="aspect-[4/5] w-full rounded-[38%_62%_46%_54%] object-cover shadow-soft"
             initial={{ opacity: 0, x: -24 }}

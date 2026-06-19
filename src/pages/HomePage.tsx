@@ -50,7 +50,7 @@ export function HomePage() {
             <div className="absolute inset-0 rotate-3 rounded-[45%_55%_48%_52%] bg-canopy shadow-soft" />
             <div className="absolute inset-5 -rotate-2 overflow-hidden rounded-[42%_58%_52%_48%] bg-mist">
               <img
-                src="/images/earring-hero.svg"
+                src={`${import.meta.env.BASE_URL}images/earring-hero.svg`}
                 alt={t('home.heroImageAlt')}
                 className="h-full w-full object-cover"
               />
